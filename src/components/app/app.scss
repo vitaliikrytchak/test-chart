@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif; 
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  width: 340px;
+  height: 55px;
+  border-radius: 20px;
+  border: none;
+  background: #4d4db4;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+}
